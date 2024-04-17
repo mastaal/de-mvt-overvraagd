@@ -1,0 +1,8 @@
+nllegalcit >= 0.0.4
+pip >= 24.0
+pylint
+flake8
+mypy >= 1.9.0
+jupyter >= 1.0.0
+requests >= 2.31.0
+pandas >= 2.2.1
